@@ -1,0 +1,28 @@
+.container {
+    background-color: blue;
+    height: 400px;
+}
+
+.rojo{
+    background-color: red;
+    height: 100px;
+}
+
+.col-6{
+
+}
+
+.amarillo{
+    background-color: yellow;
+}
+
+.verde{
+    background-color: green;
+}
+
+.lila{
+    background-color: purple;
+    height: 75px;
+    width: 60vw;
+}
+
