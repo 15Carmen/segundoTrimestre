@@ -1,0 +1,29 @@
+.container{
+    height: 400px;
+    background-color: salmon;
+}
+
+.rojo{
+    height: 300px;
+    background-color: red;
+}
+
+.verde{
+    background-color: green;
+    height: 200px;
+}
+
+.amarillo{
+    background-color: yellow;
+    height: 200px;
+}
+
+.azul{
+    background-color: blue;
+    height: 200px;
+}
+
+.lila{
+    background-color: purple;
+    height: 200px;
+}

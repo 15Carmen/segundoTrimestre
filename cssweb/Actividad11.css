@@ -1,0 +1,19 @@
+.rojo{
+    height: 300px;
+    background-color: red;
+}
+
+.verde{
+    background-color: green;
+    height: 200px;
+}
+
+.amarillo{
+    background-color: yellow;
+    height: 200px;
+}
+
+.azul{
+    background-color: blue;
+    height: 200px;
+}
