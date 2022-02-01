@@ -1,0 +1,31 @@
+.row{
+    height: 200px;
+}
+.col-4{
+    height: 200px;
+}
+
+.rojo{
+    background-color: red;
+}
+.rosa{
+    background-color: lightpink;
+}
+.amarillo{
+    background-color: yellow;
+}
+.verde{
+    background-color: green;
+}
+.azul{
+    background-color: blue;
+}
+.negro{
+    background-color: black;
+}
+.lila{
+    background-color: purple;
+}
+.naranja{
+    background-color: orange;
+}
