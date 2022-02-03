@@ -1,0 +1,24 @@
+.amarillo{
+    background-color: yellow;
+    height: 200px;
+}
+
+.verde{
+    background-color: green;
+    height: 200px;
+}
+
+.azul{
+    background-color: blue;
+    height: 200px;
+}
+
+.rojo{
+    background-color: red;
+    height: 300px;
+    width: auto;
+}
+
+.img-fluid{
+    height: 200px;
+}
