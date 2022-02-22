@@ -1,6 +1,6 @@
 *{
     margin-top: 20px;
-    margin-left: 10px;
+    margin-left: 20px;
     margin-bottom: 20px;
     margin-right: 20px;
 }
@@ -101,6 +101,7 @@ label{
 ul {
     background: #8fc9d8;
     padding: 20px;
+    border-radius: 50px;
 }
 
 ul li {
@@ -113,6 +114,7 @@ footer {
     padding: 3px;
     background-color: DarkSalmon;
     color: white;
+    border-radius: 25px;
 }
 
 #borderimg {
@@ -121,8 +123,9 @@ footer {
     border-image: url(../img/border.png) 30 stretch;
 }
 
-section{
+div.info{
     background-color:#fedcd2;
+    border-radius: 50px;
 }
 
 .recetas{
@@ -148,25 +151,31 @@ section{
 
 .aperitivo h1{
     background-color: rgb(255, 175, 148);
+    border-radius: 20px;
 }
 
 .plato h1{
     background-color: rgb(255, 175, 148);
+    border-radius: 20px;
 }
 
 .postre h1{
     background-color: rgb(255, 175, 148);
+    border-radius: 20px;
 }
 
 .gluten h1{
     background-color: rgb(255, 175, 148);
+    border-radius: 20px;
 }
 
-.gluten section{
-    background-color: #8fc9d8;
+div.glutenfree{
+    background-color: #a0cbff;
+    border-radius: 20px;
 }
 
 ol{
     background-color:rgb(255, 203, 185);
+    border-radius: 20px;
 }
 
